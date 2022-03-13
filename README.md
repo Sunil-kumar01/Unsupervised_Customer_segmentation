@@ -193,3 +193,18 @@ I did see the overall data distribution and found few points as below:
 ●	I found DBSCAN performing good to find out the optimal clusters whereas K-mean clustering is not proven that well with elbow method and silhouette scores. After using all methods I have seen that most of the time optimal numbers of clusters were 2.
 
 
+# **Challenges**
+
+Challenges.
+
+**Some of the challenges I have faced in this project are mentioned below:**
+* **Null handling for Description column and Customer ID.**
+* **Looking for few values which were negative like in Total Price.**
+* **Applying Log transformation would be right or not.**
+* **Handling skewed dataset.**
+* **Binning of quintile for the customers based on 1,2,3,4 score.**
+* **Getting Silhouette score for every sample.**
+* **Finding optimal “K”.**
+
+
+
